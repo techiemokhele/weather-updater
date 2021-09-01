@@ -10,3 +10,5 @@ Key concepts covered :-
 6.) then()
 
 Preview web app here: https://techiemokhele.github.io/weather-updater/
+
+![image](https://user-images.githubusercontent.com/67394147/131594122-ceb99744-7c6c-4bd2-b36c-f91fbdd69579.png)
